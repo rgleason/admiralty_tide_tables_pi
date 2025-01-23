@@ -45,7 +45,7 @@
 //    The PlugIn Class Definition
 //----------------------------------------------------------------------------------------------------------
 
-class att_pi : public opencpn_plugin_117
+class att_pi : public opencpn_plugin_118
 {
 public:
       att_pi(void *ppimgr);
